@@ -1,0 +1,6 @@
+{
+    "gpt_neo_version": "125M",
+	"model_folder": "./",
+	"lexica_prompts": "./lexica_prompts.txt",
+	"midjourney_prompts": "./midjourney_prompts.txt"
+}
