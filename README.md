@@ -1,7 +1,9 @@
 # Prompt_Enhancer
- Fully AI powered promt enhancer. Allow a user to autocomplete a stable diffusion or midjourney prompt with suggested terms likely to improve image quality by choosing form successive dropdown lists.
+ Fully AI powered prompt enhancer. Allow a user to autocomplete a stable diffusion or midjourney prompt with suggested terms likely to improve image quality by choosing form successive dropdown lists.
 
+![UI](./screenshot1.jpg?raw=true "Title")
 
+![UI with dropdown menu open](./screenshot2.jpg?raw=true "Title")
 Install(Windows):
 install Anaconda and create a virtual environment from environment.yml [still need to test this]
 
